@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs?username=zackyfachrur&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="zackyfachrur" />
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs?username=zackyfachrur&show_icons=true&locale=en&layout=compact&hide_border=true&border_radius=10" alt="zackyfachrur" />
 </div>
 
 <div align="center">
