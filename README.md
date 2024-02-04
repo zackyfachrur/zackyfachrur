@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img width="154" src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=daily&border_radius=10&border=3&show_icons=true&locale=en&layout=compact&hide_border=true&theme=graywhite" height="154" alt="streak graph"  />
+  <img width="300" src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=daily&border_radius=10&border=3&show_icons=true&locale=en&layout=compact&hide_border=true&theme=graywhite" height="154" alt="streak graph"  />
 </div>
 
 
