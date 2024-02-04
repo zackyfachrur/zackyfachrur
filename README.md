@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs?username=zackyfachrur&show_icons=true&locale=en&layout=compact&border_radius=10&border=3&border_color=red" alt="zackyfachrur" />
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs?username=zackyfachrur&show_icons=true&locale=en&layout=compact&border_radius=10&border=3&theme=swift" alt="zackyfachrur" />
 </div>
 
 <div align="center">
