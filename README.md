@@ -7,11 +7,11 @@
 
 
 <div align="center">
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs?username=zackyfachrur&show_icons=true&locale=en&layout=compact&hide_border=true&border_radius=10" alt="zackyfachrur" />
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs?username=zackyfachrur&show_icons=true&locale=en&layout=compact&border_radius=10&border=3" alt="zackyfachrur" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=10&order=3show_icons=true&locale=en&layout=compact&theme=blue-green" height="180" width="400" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=daily&border_radius=10&border=3&show_icons=true&locale=en&layout=compact&theme=swift" height="180" width="400" alt="streak graph"  />
 </div>
 
 
