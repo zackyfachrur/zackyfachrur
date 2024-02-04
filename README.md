@@ -7,8 +7,8 @@
 
 
 <div align="center">
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs?username=zackyfachrur&show_icons=true&locale=en&layout=compact&border_radius=10&hide_border=true&theme=shadow_green" alt="zackyfachrur" />
-  <img src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=daily&border_radius=10&border=3&show_icons=true&locale=en&layout=compact&hide_border=true&theme=shadow_green" height="154" alt="streak graph"  />
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs?username=zackyfachrur&show_icons=true&locale=en&layout=compact&border_radius=10&hide_border=true&theme=outrun" alt="zackyfachrur" />
+  <img src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=daily&border_radius=10&border=3&show_icons=true&locale=en&layout=compact&hide_border=true&theme=outrun" height="154" alt="streak graph"  />
 </div>
 
 <div align="center">
