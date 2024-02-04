@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=10&order=3show_icons=true&locale=en&layout=compact&theme=onedark" height="180" width="400" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=10&order=3show_icons=true&locale=en&layout=compact&theme=blue-green" height="180" width="400" alt="streak graph"  />
 </div>
 
 
