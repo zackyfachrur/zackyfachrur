@@ -1,10 +1,6 @@
 
-### 
-
-<h4 align="center">👋🏽 Iam currently learning programming <//h4>
-
-
 ###
+<h4 align="center">👋🏽 Iam currently learning programming </h4>
 <div align="center">
   <img height="180" src="https://gifsec.com/wp-content/uploads/2023/01/luffy-gif-13.gif"  />
 </div>
