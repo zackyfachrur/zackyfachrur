@@ -1,11 +1,8 @@
 
-###
 <h4 align="center">👋🏽 Iam currently learning programming </h4>
 <div align="center">
   <img height="180" src="https://gifsec.com/wp-content/uploads/2023/01/luffy-gif-13.gif"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph" /> <br>
