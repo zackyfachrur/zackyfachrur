@@ -1,6 +1,6 @@
 ###
 
-<h4 align="start">👋🏽 Iam currently learning programming </h4>
+<h4 align="center">👋🏽 Iam currently learning programming </h4>
 
 ### 
 
