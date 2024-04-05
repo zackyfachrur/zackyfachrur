@@ -1,4 +1,4 @@
-
+<p align="center"> 🙏 iam currently learning programming </p>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="136" alt="streak graph" /> <br>
 
