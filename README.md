@@ -1,6 +1,6 @@
 ###
 
-<h2 align="center" color="black">🖤 𝔏𝔬𝔳𝔢 𝔉𝔯𝔬𝔪 ℑ𝔫𝔡𝔬𝔫𝔢𝔰𝔦𝔞 </h2>
+<h2 align="center" color="black"> 𝔏𝔬𝔞𝔡𝔦𝔫𝔤... </h2>
 
 ### 
 
