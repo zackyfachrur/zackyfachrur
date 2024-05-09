@@ -14,8 +14,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zackyfachrur&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true" height="149" alt="languages graph"  />
  </div>
 
-
-<br clear="both">
 <div align="center">
 <img src="https://raw.githubusercontent.com/zackyfachrur/zackyfachrur/output/github-contribution-grid-snake-dark.svg" height="149" alt="Snake animation" />
 </div>
@@ -42,10 +40,3 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mzackyfa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
