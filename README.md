@@ -1,9 +1,3 @@
-<h2 align="left">Hi 👋! My name is Zacky Fachrur From Indonesia</h2>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img align="center" src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=10" height="140" alt="streak graph"  />
  </div>
