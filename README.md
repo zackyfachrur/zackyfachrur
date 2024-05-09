@@ -11,7 +11,7 @@
 <hr>
  
 <div align="center">
-<img src="https://raw.githubusercontent.com/zackyfachrur/zackyfachrur/output/github-contribution-grid-snake-dark.svg" height="149" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/zackyfachrur/zackyfachrur/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 
