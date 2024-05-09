@@ -12,6 +12,8 @@
 <img src="https://raw.githubusercontent.com/zackyfachrur/zackyfachrur/output/github-contribution-grid-snake-dark.svg" height="149" alt="Snake animation" />
 </div>
 
+<hr>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="30" />
