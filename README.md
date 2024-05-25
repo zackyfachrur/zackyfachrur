@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=10" height="180" alt="streak graph"  />
+  <img align="center" src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=10" height="170" alt="streak graph"  />
  </div>
 
  ###
