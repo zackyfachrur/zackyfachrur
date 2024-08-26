@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">Yoo Guys 👋 </h1>
+<h1 align="left">Hi 👋 </h1>
 
 ###
 
