@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Zacky Fachrur and I'm a Computer Science Student from Earth.</p>
+<p align="left">My name is Zacky Fachrur a Computer Science Student from Earth.</p>
 
 ###
 
