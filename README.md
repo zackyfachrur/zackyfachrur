@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Front-end and Back-end<br>🎲 Interested in Full Stack Developer and Cyber Security.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Front-end and Back-end<br>🎲 Interested in Full Stack Dev and Cyber Security.</p>
 
 ###
 
