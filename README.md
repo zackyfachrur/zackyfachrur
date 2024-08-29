@@ -58,10 +58,10 @@
 
 <div align="left">
     <img width="12" />
-    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="40" alt="discord logo"  />
-  
   <a href="https://discord.com/channels/@me/434767010237513760" target="_blank">
+    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="40" alt="discord logo"  />
   </a>
+  
 
   <img width="12" />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo"  />
