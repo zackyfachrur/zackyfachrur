@@ -58,10 +58,7 @@
 
 <div align="left">
     <img width="12" />
-  <a href="https://discord.com/channels/@me/434767010237513760" target="_blank">
-    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="40" alt="discord logo"  />
-  </a>
-    <img width="12" />
+    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="40" alt="discord logo" href="https://discord.com/channels/@me/434767010237513760" target="_blank"  />
   
 
   <img width="12" />
