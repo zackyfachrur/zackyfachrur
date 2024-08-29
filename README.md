@@ -1,16 +1,16 @@
 <br clear="both">
 
 <div align="center">
-  <img width="800" src="https://designyoutrust.com/wp-content/uploads/2019/05/tumblr_patorchsbX1vjxiz1o1_1280.gif?cid=6c09b952f4rsrhnsqr8qbp5xqj1dburfooon5xynnjc1c6lw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+  <img height="500" src="https://designyoutrust.com/wp-content/uploads/2019/05/tumblr_patorchsbX1vjxiz1o1_1280.gif?cid=6c09b952f4rsrhnsqr8qbp5xqj1dburfooon5xynnjc1c6lw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
 
-<h1 align="left">Hi 👋 </h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Zacky Fachrur a Computer Science Student from Earth.</p>
+<p align="left">My name is Zacky Fachrur and I'm a Computer Science Student from Earth.</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Front-end and Back-end<br>🎲 Interested in Full Stack Dev and Cyber Security.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Front-end and Back-end<br>🎲 Interested in Full Stack Developer and Cyber Security.</p>
 
 ###
 
@@ -37,8 +37,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -48,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
@@ -56,19 +56,17 @@
 
 ###
 
-<div align="left">
-  ![Discord Logo](https://www.svgrepo.com/show/353655/discord-icon.svg)[(Youtube)](https://discord.com/channels/@me/434767010237513760)
+<br clear="both">
 
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo"  />
-    
+<div align="left">
   <a href="https://www.linkedin.com/in/mzackyfa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="40" alt="whatsapp logo"  />
-    
+  <a href="https://discord.com/channels/@me/434767010237513760" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
   <a href="https://wa.me/6287703577988?text=Hello%20I%27m%20From%20Github" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
