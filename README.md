@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="500" src="https://designyoutrust.com/wp-content/uploads/2019/05/tumblr_patorchsbX1vjxiz1o1_1280.gif?cid=6c09b952f4rsrhnsqr8qbp5xqj1dburfooon5xynnjc1c6lw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+  <img width="500" src="https://designyoutrust.com/wp-content/uploads/2019/05/tumblr_patorchsbX1vjxiz1o1_1280.gif?cid=6c09b952f4rsrhnsqr8qbp5xqj1dburfooon5xynnjc1c6lw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
