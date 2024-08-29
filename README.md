@@ -21,7 +21,7 @@
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Front-end and Back-end<br>🎲 Interested in Full Stack Developer and Cyber Security.</p>
 
 <p align="left">
-<a href="https://linkedin.com/in/mzackyfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mzackyfa" height="35" width="40" /></a>
+<a href="https://linkedin.com/in/mzackyfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mzackyfa" height="25" width="40" /></a>
 <a href="https://instagram.com/mzackyfa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mzackyfa_" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me/434767010237513760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="434767010237513760" height="35" width="40" /></a>
 </p>
