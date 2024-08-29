@@ -60,9 +60,11 @@
   <a href="https://www.linkedin.com/in/mzackyfa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  
   <a href="https://discord.com/channels/@me/434767010237513760" target="_blank">
     <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="52" height="40" alt="discord logo"  />
   </a>
+  
   <a href="https://wa.me/6287703577988?text=Hello%20I%27m%20From%20Github" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
