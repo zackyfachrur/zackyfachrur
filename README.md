@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Front-end and Back-end<br>🎲 Interested in Full Stack Developer and Cyber Security.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Front-end and Back-end<br>🎲 Interested in Software Engineer and Cyber Security.</p>
 
 <p align="left">
 <a href="https://linkedin.com/in/mzackyfa" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="mzackyfa" height="30" width="40" /></a>
