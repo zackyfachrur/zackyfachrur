@@ -53,5 +53,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
-
-[![Summary widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=zackyfachrur&show-header=true)](https://profile.codersrank.io/user/zackyfachrur)
