@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zackyfachrur&radius=16&theme=react&area=true&order=5" height="260" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zackyfachrur&layout=compact" alt="Harlok's WakaTime stats" />
 </div>
 
 ###
