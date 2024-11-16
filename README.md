@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Zacky Fachrur I'm a Computer Science Student and this is my single repo guys good luck.</p>
+<p align="left">My name is Zacky Fachrur a Computer Science Student and this is my single repo guys good luck.</p>
 
 ###
 
