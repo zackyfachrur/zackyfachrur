@@ -2,8 +2,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zackyfachrur&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zackyfachrur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=25&theme=react&hide_border=true&order=2" height="250" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zackyfachrur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=25&theme=react&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
 
 ###
