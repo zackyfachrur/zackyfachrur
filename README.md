@@ -1,9 +1,5 @@
 <br clear="both">
 
-<div align="center">
-  <img width="500" src="https://i.pinimg.com/originals/d0/f2/2b/d0f22ba21124dba8fe59dce25575ae67.gif"  />
-</div>
-
 ###
 
 <h1 align="left">Hi There👋</h1>
