@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zackyfachrur&radius=16&theme=react&area=true&order=5" height="260" alt="activity-graph graph"  />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zackyfachrur&radius=16&theme=coral&area=true&order=5&custom_title=My%20Graph%20of%20Contribution%20Activity" height="260" alt="activity-graph graph"  />
 </div>
 
 ###
