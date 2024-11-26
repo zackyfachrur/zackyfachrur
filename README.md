@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-   <img height="500" src="https://designyoutrust.com/wp-content/uploads/2019/05/tumblr_patorchsbX1vjxiz1o1_1280.gif?cid=6c09b952f4rsrhnsqr8qbp5xqj1dburfooon5xynnjc1c6lw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zackyfachrur&radius=16&theme=nord&area=true&order=5&hide_border=true&hide_title=false" height="500" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -71,6 +71,7 @@
 </div>
 
 ###
+
 
 
 
