@@ -3,7 +3,9 @@
 
 ###
 
-<p align="left">My name is Zacky Fachrur a Computer Science Student from Earth and This is just my single repo guys good luck.</p>
+<p align="left">As a student, I am currently pursuing an undergraduate education in the field of Information
+Systems Third Semester. During my studies, I have been passionate about programming, actively
+developing desktop applications and websites, and contributing to various website projects.</p>
 
 ###
 
