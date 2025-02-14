@@ -3,13 +3,13 @@
 
 ###
 
-<p align="left">As a student, I am currently pursuing an undergraduate education in the field of Information
-Systems Third Semester. During my studies, I have been passionate about programming, actively
-developing desktop applications and websites, and contributing to various website projects.</p>
+<h2 align="left">About me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">As a student, I am currently pursuing an undergraduate education in the field of Information
+Systems Third Semester. During my studies, I have been passionate about programming, actively
+developing desktop applications and websites, and contributing to various website projects.</p>
 
 ###
 
