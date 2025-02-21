@@ -22,6 +22,8 @@ developing desktop applications, websites applications, and contributing to vari
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" height="40" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://github.com/laravel/art/blob/master/laravel-logo.png" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
