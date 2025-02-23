@@ -23,7 +23,7 @@ developing desktop applications, websites applications, and contributing to vari
   <tr>
     <td align="center"><img src="/img/react.png" width="40"/><br><b>React</b></td>
     <td align="center"><img src="/img/next.jpg" width="40"/><br><b>Next.js</b></td>
-    <td align="center"><img src="/img/zustand.png" style="border-radius: 900px;" width="40"/><br><b>Zustand</b></td>
+    <td align="center"><img src="/img/zustand.png" width="40"/><br><b>Zustand</b></td>
     <td align="center"><img src="/img/redux.png" width="40"/><br><b>Redux</b></td>
     <td align="center"><img src="/img/javascript.svg" width="40"/><br><b>JavaScript</b></td>
     <td align="center"><img src="/img/typescript.svg" width="40"/><br><b>TypeScript</b></td>
@@ -32,7 +32,7 @@ developing desktop applications, websites applications, and contributing to vari
   <tr>
     <td align="center"><img src="/img/laravel.png" width="40"/><br><b>Laravel</b></td>
     <td align="center"><img src="/img/dot-net.svg" width="40"/><br><b>.NET</b></td>
-    <td align="center"><img src="/img/express-js.png" width="60"/><br><b>Express</b></td>
+    <td align="center"><img src="/img/express-js.png" width="40"/><br><b>Express</b></td>
     <td align="center"><img src="/img/mysql.svg" width="40"/><br><b>MySQL</b></td>
     <td align="center"><img src="/img/php.svg" width="40"/><br><b>PHP</b></td>
     <td align="center"><img src="/img/csharp.svg" width="40"/><br><b>C#</b></td>
