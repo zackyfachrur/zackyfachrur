@@ -32,6 +32,9 @@ developing desktop applications, websites applications, and contributing to vari
 | **.NET**  | ![.NET](/img/dot-net.svg) |
 | **Node.js**  | ![Node.js](/img/nodejs.svg) |
 
+
+###
+
 ### Bagian 2  
 | Teknologi  | Logo |
 |------------|------|
