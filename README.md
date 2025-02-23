@@ -20,7 +20,7 @@ developing desktop applications, websites applications, and contributing to vari
 ###
 
 <div align="left">
-  <img src="/img/react.png" height="50" alt="react logo"  />
+  <img src="/img/react.png" height="40" alt="react logo"  />
   <img width="12" />
   <img src="/img/next.jpg" height="40" alt="next-js logo"  />
   <img width="12" />
