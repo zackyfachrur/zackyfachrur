@@ -36,9 +36,6 @@ developing desktop applications, websites applications, and contributing to vari
     <td align="center"><img src="/img/mysql.svg" width="40"/><br><b>MySQL</b></td>
     <td align="center"><img src="/img/php.svg" width="40"/><br><b>PHP</b></td>
     <td align="center"><img src="/img/csharp.svg" width="40"/><br><b>C#</b></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
