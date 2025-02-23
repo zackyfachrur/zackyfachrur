@@ -20,7 +20,6 @@ developing desktop applications, websites applications, and contributing to vari
 ###
 
 ## 🖥️ Frontend  
-| Technology  | Logo |
 |------------|------|
 | **React**  | <img src="/img/react.png" width="40"/> |
 | **Next.js**  | <img src="/img/next.jpg" width="40"/> |
@@ -32,7 +31,6 @@ developing desktop applications, websites applications, and contributing to vari
 ---
 
 ## 🛠️ Backend  
-| Technology  | Logo |
 |------------|------|
 | **Node.js**  | <img src="/img/nodejs.svg" width="40"/> |
 | **Laravel**  | <img src="/img/laravel.png" width="40"/> |
