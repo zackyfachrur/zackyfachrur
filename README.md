@@ -19,7 +19,7 @@ developing desktop applications, websites applications, and contributing to vari
 
 ###
 
-<table align="center">
+<table>
   <tr>
     <td align="center"><img src="/img/react.png" width="40"/><br><b>React</b></td>
     <td align="center"><img src="/img/next.jpg" width="40"/><br><b>Next.js</b></td>
@@ -28,7 +28,6 @@ developing desktop applications, websites applications, and contributing to vari
     <td align="center"><img src="/img/javascript.svg" width="40"/><br><b>JavaScript</b></td>
     <td align="center"><img src="/img/typescript.svg" width="40"/><br><b>TypeScript</b></td>
     <td align="center"><img src="/img/tailwindcss.svg" width="40"/><br><b>Tailwind CSS</b></td>
-    <td align="center"><img src="/img/nodejs.svg" width="40"/><br><b>Node.js</b></td>
   </tr>
   <tr>
     <td align="center"><img src="/img/laravel.png" width="40"/><br><b>Laravel</b></td>
@@ -36,6 +35,7 @@ developing desktop applications, websites applications, and contributing to vari
     <td align="center"><img src="/img/mysql.svg" width="40"/><br><b>MySQL</b></td>
     <td align="center"><img src="/img/php.svg" width="40"/><br><b>PHP</b></td>
     <td align="center"><img src="/img/csharp.svg" width="40"/><br><b>C#</b></td>
+    <td align="center"><img src="/img/nodejs.svg" width="40"/><br><b>Node.js</b></td>
   </tr>
 </table>
 
