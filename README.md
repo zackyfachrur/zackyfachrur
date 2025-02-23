@@ -36,7 +36,7 @@ developing desktop applications, websites applications, and contributing to vari
 | **MySQL**  | <img src="/img/mysql.svg" width="40"/> |
 | **PHP**  | <img src="/img/php.svg" width="40"/> |
 | **C#**  | <img src="/img/csharp.svg" width="40"/> |
-| **Tailwind CSS**  | <img src="/img/tailwindcss.svg" width="40"/> |
+| **Tailwind**  | <img src="/img/tailwindcss.svg" width="40"/> |
 
 ###
 
