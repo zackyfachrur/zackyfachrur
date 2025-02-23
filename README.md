@@ -19,8 +19,10 @@ developing desktop applications, websites applications, and contributing to vari
 
 ###
 
-###   
-| Fron End  | Logo |
+## Daftar Teknologi
+
+### Bagian 1  
+| Teknologi  | Logo |
 |------------|------|
 | **React**  | ![React](/img/react.png) |
 | **Next.js**  | ![Next.js](/img/next.jpg) |
@@ -29,6 +31,9 @@ developing desktop applications, websites applications, and contributing to vari
 | **Redux**  | ![Redux](/img/redux.png) |
 | **.NET**  | ![.NET](/img/dot-net.svg) |
 | **Node.js**  | ![Node.js](/img/nodejs.svg) |
+
+### Bagian 2  
+| Teknologi  | Logo |
 |------------|------|
 | **MySQL**  | ![MySQL](/img/mysql.svg) |
 | **Tailwind CSS**  | ![Tailwind CSS](/img/tailwindcss.svg) |
@@ -36,6 +41,7 @@ developing desktop applications, websites applications, and contributing to vari
 | **JavaScript**  | ![JavaScript](/img/javascript.svg) |
 | **TypeScript**  | ![TypeScript](/img/typescript.svg) |
 | **PHP**  | ![PHP](/img/php.svg) |
+
 
 
 ###
