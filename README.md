@@ -23,11 +23,11 @@ developing desktop applications, websites applications, and contributing to vari
   <tr>
     <td align="center"><img src="/img/react.png" width="40"/><br><b>React</b></td>
     <td align="center"><img src="/img/next.jpg" width="40"/><br><b>Next.js</b></td>
-    <td align="center"><img src="/img/zustand.png" width="40"/><br><b>Zustand</b></td>
+    <td align="center"><img src="/img/zustand.png" width="60"/><br><b>Zustand</b></td>
     <td align="center"><img src="/img/redux.png" width="40"/><br><b>Redux</b></td>
     <td align="center"><img src="/img/javascript.svg" width="40"/><br><b>JavaScript</b></td>
     <td align="center"><img src="/img/typescript.svg" width="40"/><br><b>TypeScript</b></td>
-    <td align="center"><img src="/img/tailwindcss.svg" width="40"/><br><b>Tailwind CSS</b></td>
+    <td align="center"><img src="/img/tailwindcss.svg" width="40"/><br><b>Tailwind</b></td>
   </tr>
   <tr>
     <td align="center"><img src="/img/laravel.png" width="40"/><br><b>Laravel</b></td>
