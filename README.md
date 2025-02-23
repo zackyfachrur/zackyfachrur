@@ -23,7 +23,7 @@ developing desktop applications, websites applications, and contributing to vari
   <tr>
     <td align="center"><img src="/img/react.png" width="40"/><br><b>React</b></td>
     <td align="center"><img src="/img/next.jpg" width="40"/><br><b>Next.js</b></td>
-    <td align="center"><img src="/img/zustand.jpeg" style="border-radius: 900px;" width="40"/><br><b>Zustand</b></td>
+    <td align="center"><img src="/img/zustand.png" style="border-radius: 900px;" width="40"/><br><b>Zustand</b></td>
     <td align="center"><img src="/img/redux.png" width="40"/><br><b>Redux</b></td>
     <td align="center"><img src="/img/javascript.svg" width="40"/><br><b>JavaScript</b></td>
     <td align="center"><img src="/img/typescript.svg" width="40"/><br><b>TypeScript</b></td>
