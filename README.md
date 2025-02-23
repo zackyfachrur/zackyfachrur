@@ -19,10 +19,9 @@ developing desktop applications, websites applications, and contributing to vari
 
 ###
 
-| <img src="/img/react.png" width="40"/> | <img src="/img/next.jpg" width="40"/> | <img src="/img/zustand.png" width="40"/> | <img src="/img/redux.png" width="40"/> | <img src="/img/javascript.svg" width="40"/> | <img src="/img/typescript.svg" width="40"/> | <img src="/img/tailwindcss.svg" width="40"/> | <img src="/img/nodejs.svg" width="40"/> |
+| <img src="/img/react.png" width="40"/> <br> **React** | <img src="/img/next.jpg" width="40"/> <br> **Next.js** | <img src="/img/zustand.png" width="40"/> <br> **Zustand** | <img src="/img/redux.png" width="40"/> <br> **Redux** | <img src="/img/javascript.svg" width="40"/> <br> **JavaScript** | <img src="/img/typescript.svg" width="40"/> <br> **TypeScript** | <img src="/img/tailwindcss.svg" width="40"/> <br> **Tailwind CSS** | <img src="/img/nodejs.svg" width="40"/> <br> **Node.js** |
 |----|----|----|----|----|----|----|----|
-| <img src="/img/laravel.png" width="40"/> | <img src="/img/dot-net.svg" width="40"/> | <img src="/img/mysql.svg" width="40"/> | <img src="/img/php.svg" width="40"/> | <img src="/img/csharp.svg" width="40"/> | 
-
+| <img src="/img/laravel.png" width="40"/> <br> **Laravel** | <img src="/img/dot-net.svg" width="40"/> <br> **.NET** | <img src="/img/mysql.svg" width="40"/> <br> **MySQL** | <img src="/img/php.svg" width="40"/> <br> **PHP** | <img src="/img/csharp.svg" width="40"/> <br> **C#** |  |  |  |
 
 ###
 
