@@ -20,34 +20,51 @@ developing desktop applications, websites applications, and contributing to vari
 ###
 
 ## 🖥️ Frontend  
-| Teknologi  | Logo |
+### 📚 Libraries  
+| Technology  | Logo |
 |------------|------|
 | **React**  | ![React](/img/react.png) |
 | **Next.js**  | ![Next.js](/img/next.jpg) |
+
+### 🔄 State Management  
+| Technology  | Logo |
+|------------|------|
 | **Zustand**  | ![Zustand](/img/zustand.png) |
 | **Redux**  | ![Redux](/img/redux.png) |
+
+### 💻 Languages  
+| Technology  | Logo |
+|------------|------|
 | **JavaScript**  | ![JavaScript](/img/javascript.svg) |
 | **TypeScript**  | ![TypeScript](/img/typescript.svg) |
 
 ---
 
 ## 🛠️ Backend  
-| Teknologi  | Logo |
+### ⚙️ Frameworks  
+| Technology  | Logo |
 |------------|------|
 | **Node.js**  | ![Node.js](/img/nodejs.svg) |
 | **Laravel**  | ![Laravel](/img/laravel.png) |
 | **.NET**  | ![.NET](/img/dot-net.svg) |
-| **PHP**  | ![PHP](/img/php.svg) |
+
+### 🗄️ Databases  
+| Technology  | Logo |
+|------------|------|
 | **MySQL**  | ![MySQL](/img/mysql.svg) |
+
+### 💻 Languages  
+| Technology  | Logo |
+|------------|------|
+| **PHP**  | ![PHP](/img/php.svg) |
 | **C#**  | ![C#](/img/csharp.svg) |
 
 ---
 
 ## 🎨 Styling  
-| Teknologi  | Logo |
+| Technology  | Logo |
 |------------|------|
 | **Tailwind CSS**  | ![Tailwind CSS](/img/tailwindcss.svg) |
-
 
 ###
 
