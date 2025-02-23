@@ -19,34 +19,60 @@ developing desktop applications, websites applications, and contributing to vari
 
 ###
 
-<div align="left">
-  <img src="/img/react.png" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="/img/next.jpg" height="40" alt="next-js logo"  />
-  <img width="12" />
-  <img src="/img/laravel.png" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="/img/zustand.png" height="40" alt="zustand logo"  />
-  <img width="12" />
-  <img src="/img/redux.png" height="40" alt="react-redux logo"  />
-  <img width="12" />
-  <img src="/img/dot-net.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="/img/nodejs.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="/img/mysql.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="/img/tailwindcss.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="/img/csharp.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="/img/javascript.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="/img/typescript.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="/img/php.svg" height="40" alt="php logo"  />
-</div>
-
+<ul>
+  <li>
+    <strong>React</strong>  
+    <img src="/img/react.png" height="40" alt="react logo" />
+  </li>
+  <li>
+    <strong>Next.js</strong>  
+    <img src="/img/next.jpg" height="40" alt="next-js logo" />
+  </li>
+  <li>
+    <strong>Laravel</strong>  
+    <img src="/img/laravel.png" height="40" alt="laravel logo" />
+  </li>
+  <li>
+    <strong>Zustand</strong>  
+    <img src="/img/zustand.png" height="40" alt="zustand logo" />
+  </li>
+  <li>
+    <strong>Redux</strong>  
+    <img src="/img/redux.png" height="40" alt="react-redux logo" />
+  </li>
+  <li>
+    <strong>.NET</strong>  
+    <img src="/img/dot-net.svg" height="40" alt="dot-net logo" />
+  </li>
+  <li>
+    <strong>Node.js</strong>  
+    <img src="/img/nodejs.svg" height="40" alt="nodejs logo" />
+  </li>
+  <li>
+    <strong>MySQL</strong>  
+    <img src="/img/mysql.svg" height="40" alt="mysql logo" />
+  </li>
+  <li>
+    <strong>Tailwind CSS</strong>  
+    <img src="/img/tailwindcss.svg" height="40" alt="tailwindcss logo" />
+  </li>
+  <li>
+    <strong>C#</strong>  
+    <img src="/img/csharp.svg" height="40" alt="csharp logo" />
+  </li>
+  <li>
+    <strong>JavaScript</strong>  
+    <img src="/img/javascript.svg" height="40" alt="javascript logo" />
+  </li>
+  <li>
+    <strong>TypeScript</strong>  
+    <img src="/img/typescript.svg" height="40" alt="typescript logo" />
+  </li>
+  <li>
+    <strong>PHP</strong>  
+    <img src="/img/php.svg" height="40" alt="php logo" />
+  </li>
+</ul>
 ###
 
 <h2 align="left">Contact</h2>
