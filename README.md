@@ -19,52 +19,75 @@ developing desktop applications, websites applications, and contributing to vari
 
 ###
 
+# 🚀 Technology Stack
+
 ## 🖥️ Frontend  
-### 📚 Libraries  
-| Technology  | Logo |
-|------------|------|
-| **React**  | <img src="/img/react.png" width="40"/> |
-| **Next.js**  | <img src="/img/next.jpg" width="40"/> |
-
-### 🔄 State Management  
-| Technology  | Logo |
-|------------|------|
-| **Zustand**  | <img src="/img/zustand.png" width="40"/> |
-| **Redux**  | <img src="/img/redux.png" width="40"/> |
-
-### 💻 Languages  
-| Technology  | Logo |
-|------------|------|
-| **JavaScript**  | <img src="/img/javascript.svg" width="40"/> |
-| **TypeScript**  | <img src="/img/typescript.svg" width="40"/> |
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div align="center">
+    <img src="/img/react.png" width="40"/>
+    <p>React</p>
+  </div>
+  <div align="center">
+    <img src="/img/next.jpg" width="40"/>
+    <p>Next.js</p>
+  </div>
+  <div align="center">
+    <img src="/img/zustand.png" width="40"/>
+    <p>Zustand</p>
+  </div>
+  <div align="center">
+    <img src="/img/redux.png" width="40"/>
+    <p>Redux</p>
+  </div>
+  <div align="center">
+    <img src="/img/javascript.svg" width="40"/>
+    <p>JavaScript</p>
+  </div>
+  <div align="center">
+    <img src="/img/typescript.svg" width="40"/>
+    <p>TypeScript</p>
+  </div>
+</div>
 
 ---
 
 ## 🛠️ Backend  
-### ⚙️ Frameworks  
-| Technology  | Logo |
-|------------|------|
-| **Node.js**  | <img src="/img/nodejs.svg" width="40"/> |
-| **Laravel**  | <img src="/img/laravel.png" width="40"/> |
-| **.NET**  | <img src="/img/dot-net.svg" width="40"/> |
-
-### 🗄️ Databases  
-| Technology  | Logo |
-|------------|------|
-| **MySQL**  | <img src="/img/mysql.svg" width="40"/> |
-
-### 💻 Languages  
-| Technology  | Logo |
-|------------|------|
-| **PHP**  | <img src="/img/php.svg" width="40"/> |
-| **C#**  | <img src="/img/csharp.svg" width="40"/> |
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div align="center">
+    <img src="/img/nodejs.svg" width="40"/>
+    <p>Node.js</p>
+  </div>
+  <div align="center">
+    <img src="/img/laravel.png" width="40"/>
+    <p>Laravel</p>
+  </div>
+  <div align="center">
+    <img src="/img/dot-net.svg" width="40"/>
+    <p>.NET</p>
+  </div>
+  <div align="center">
+    <img src="/img/mysql.svg" width="40"/>
+    <p>MySQL</p>
+  </div>
+  <div align="center">
+    <img src="/img/php.svg" width="40"/>
+    <p>PHP</p>
+  </div>
+  <div align="center">
+    <img src="/img/csharp.svg" width="40"/>
+    <p>C#</p>
+  </div>
+</div>
 
 ---
 
 ## 🎨 Styling  
-| Technology  | Logo |
-|------------|------|
-| **Tailwind CSS**  | <img src="/img/tailwindcss.svg" width="40"/> |
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div align="center">
+    <img src="/img/tailwindcss.svg" width="40"/>
+    <p>Tailwind CSS</p>
+  </div>
+</div>
 
 ###
 
