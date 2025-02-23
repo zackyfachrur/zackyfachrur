@@ -19,18 +19,34 @@ developing desktop applications, websites applications, and contributing to vari
 
 ###
 
-###
-
-### Bagian 2  
+## 🖥️ Frontend  
 | Teknologi  | Logo |
 |------------|------|
-| **MySQL**  | ![MySQL](/img/mysql.svg) |
-| **Tailwind CSS**  | ![Tailwind CSS](/img/tailwindcss.svg) |
-| **C#**  | ![C#](/img/csharp.svg) |
+| **React**  | ![React](/img/react.png) |
+| **Next.js**  | ![Next.js](/img/next.jpg) |
+| **Zustand**  | ![Zustand](/img/zustand.png) |
+| **Redux**  | ![Redux](/img/redux.png) |
 | **JavaScript**  | ![JavaScript](/img/javascript.svg) |
 | **TypeScript**  | ![TypeScript](/img/typescript.svg) |
-| **PHP**  | ![PHP](/img/php.svg) |
 
+---
+
+## 🛠️ Backend  
+| Teknologi  | Logo |
+|------------|------|
+| **Node.js**  | ![Node.js](/img/nodejs.svg) |
+| **Laravel**  | ![Laravel](/img/laravel.png) |
+| **.NET**  | ![.NET](/img/dot-net.svg) |
+| **PHP**  | ![PHP](/img/php.svg) |
+| **MySQL**  | ![MySQL](/img/mysql.svg) |
+| **C#**  | ![C#](/img/csharp.svg) |
+
+---
+
+## 🎨 Styling  
+| Teknologi  | Logo |
+|------------|------|
+| **Tailwind CSS**  | ![Tailwind CSS](/img/tailwindcss.svg) |
 
 
 ###
