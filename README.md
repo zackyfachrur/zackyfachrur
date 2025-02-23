@@ -19,21 +19,15 @@ developing desktop applications, websites applications, and contributing to vari
 
 ###
 
-| Title | 🖥️ |
-|------------|------|
-| **React**  | <img src="/img/react.png" width="40"/> |
-| **Next.js**  | <img src="/img/next.jpg" width="40"/> |
-| **Zustand**  | <img src="/img/zustand.png" width="40"/> |
-| **Redux**  | <img src="/img/redux.png" width="40"/> |
-| **JavaScript**  | <img src="/img/javascript.svg" width="40"/> |
-| **TypeScript**  | <img src="/img/typescript.svg" width="40"/> |
-| **Tailwind**  | <img src="/img/tailwindcss.svg" width="40"/> |
-| **Node.js**  | <img src="/img/nodejs.svg" width="40"/> |
-| **Laravel**  | <img src="/img/laravel.png" width="40"/> |
-| **.NET**  | <img src="/img/dot-net.svg" width="40"/> |
-| **MySQL**  | <img src="/img/mysql.svg" width="40"/> |
-| **PHP**  | <img src="/img/php.svg" width="40"/> |
-| **C#**  | <img src="/img/csharp.svg" width="40"/> |
+| Title        | 🖥️ | Title        | 🖥️ |
+|-------------|----|-------------|----|
+| **React**   | <img src="/img/react.png" width="40"/> | **Next.js**  | <img src="/img/next.jpg" width="40"/> |
+| **Zustand** | <img src="/img/zustand.png" width="40"/> | **Redux**  | <img src="/img/redux.png" width="40"/> |
+| **JavaScript** | <img src="/img/javascript.svg" width="40"/> | **TypeScript** | <img src="/img/typescript.svg" width="40"/> |
+| **Tailwind CSS** | <img src="/img/tailwindcss.svg" width="40"/> | **Node.js**  | <img src="/img/nodejs.svg" width="40"/> |
+| **Laravel** | <img src="/img/laravel.png" width="40"/> | **.NET**  | <img src="/img/dot-net.svg" width="40"/> |
+| **MySQL** | <img src="/img/mysql.svg" width="40"/> | **PHP**  | <img src="/img/php.svg" width="40"/> |
+| **C#** | <img src="/img/csharp.svg" width="40"/> |  |  |
 
 ###
 
