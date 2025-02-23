@@ -23,20 +23,20 @@ developing desktop applications, websites applications, and contributing to vari
 ### 📚 Libraries  
 | Technology  | Logo |
 |------------|------|
-| **React**  | ![React](/img/react.png) |
-| **Next.js**  | ![Next.js](/img/next.jpg) |
+| **React**  | <img src="/img/react.png" width="40"/> |
+| **Next.js**  | <img src="/img/next.jpg" width="40"/> |
 
 ### 🔄 State Management  
 | Technology  | Logo |
 |------------|------|
-| **Zustand**  | ![Zustand](/img/zustand.png) |
-| **Redux**  | ![Redux](/img/redux.png) |
+| **Zustand**  | <img src="/img/zustand.png" width="40"/> |
+| **Redux**  | <img src="/img/redux.png" width="40"/> |
 
 ### 💻 Languages  
 | Technology  | Logo |
 |------------|------|
-| **JavaScript**  | ![JavaScript](/img/javascript.svg) |
-| **TypeScript**  | ![TypeScript](/img/typescript.svg) |
+| **JavaScript**  | <img src="/img/javascript.svg" width="40"/> |
+| **TypeScript**  | <img src="/img/typescript.svg" width="40"/> |
 
 ---
 
@@ -44,27 +44,27 @@ developing desktop applications, websites applications, and contributing to vari
 ### ⚙️ Frameworks  
 | Technology  | Logo |
 |------------|------|
-| **Node.js**  | ![Node.js](/img/nodejs.svg) |
-| **Laravel**  | ![Laravel](/img/laravel.png) |
-| **.NET**  | ![.NET](/img/dot-net.svg) |
+| **Node.js**  | <img src="/img/nodejs.svg" width="40"/> |
+| **Laravel**  | <img src="/img/laravel.png" width="40"/> |
+| **.NET**  | <img src="/img/dot-net.svg" width="40"/> |
 
 ### 🗄️ Databases  
 | Technology  | Logo |
 |------------|------|
-| **MySQL**  | ![MySQL](/img/mysql.svg) |
+| **MySQL**  | <img src="/img/mysql.svg" width="40"/> |
 
 ### 💻 Languages  
 | Technology  | Logo |
 |------------|------|
-| **PHP**  | ![PHP](/img/php.svg) |
-| **C#**  | ![C#](/img/csharp.svg) |
+| **PHP**  | <img src="/img/php.svg" width="40"/> |
+| **C#**  | <img src="/img/csharp.svg" width="40"/> |
 
 ---
 
 ## 🎨 Styling  
 | Technology  | Logo |
 |------------|------|
-| **Tailwind CSS**  | ![Tailwind CSS](/img/tailwindcss.svg) |
+| **Tailwind CSS**  | <img src="/img/tailwindcss.svg" width="40"/> |
 
 ###
 
