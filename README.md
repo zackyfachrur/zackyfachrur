@@ -32,7 +32,7 @@ developing desktop applications, websites applications, and contributing to vari
   <tr>
     <td align="center"><img src="/img/laravel.png" width="40"/><br><b>Laravel</b></td>
     <td align="center"><img src="/img/dot-net.svg" width="40"/><br><b>.NET</b></td>
-    <td align="center"><img src="/img/express.png" width="40"/><br><b>Express</b></td>
+    <td align="center"><img src="/img/express.png" width="60"/><br><b>Express</b></td>
     <td align="center"><img src="/img/mysql.svg" width="40"/><br><b>MySQL</b></td>
     <td align="center"><img src="/img/php.svg" width="40"/><br><b>PHP</b></td>
     <td align="center"><img src="/img/csharp.svg" width="40"/><br><b>C#</b></td>
