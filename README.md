@@ -60,15 +60,3 @@ developing desktop applications, websites applications, and contributing to vari
 
 ###
 
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zackyfachrur&locale=en&hide_title=false&layout=compact&card_width=800&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
-
