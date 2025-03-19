@@ -28,9 +28,11 @@ developing desktop applications, websites applications, and contributing to vari
     <td align="center"><img src="/img/javascript.svg" width="40"/><br><b>JavaScript</b></td>
     <td align="center"><img src="/img/typescript.svg" width="40"/><br><b>TypeScript</b></td>
     <td align="center"><img src="/img/tailwindcss.svg" width="40"/><br><b>Tailwind</b></td>
+    <td align="center"><img src="/img/go.png" width="40"/><br><b>Go</b></td>
   </tr>
   <tr>
     <td align="center"><img src="/img/laravel.png" width="40"/><br><b>Laravel</b></td>
+    <td align="center"><img src="/img/go-gin.png" width="40"/><br><b>Gin</b></td>
     <td align="center"><img src="/img/dot-net.svg" width="40"/><br><b>.NET</b></td>
     <td align="center"><img src="/img/express-js.png" width="40"/><br><b>Express</b></td>
     <td align="center"><img src="/img/mysql.svg" width="40"/><br><b>MySQL</b></td>
