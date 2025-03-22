@@ -11,7 +11,7 @@ developing desktop applications, websites applications, and contributing to vari
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Front-end and Back-end<br>🎲 Interested in Software Engineering and Full Stack Development.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Front-end and Back-end<br>🎲 Interested in Software Engineering and Networking</p>
 
 ###
 
