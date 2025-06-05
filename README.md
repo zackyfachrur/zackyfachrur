@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I code with the stack in down below, but available to learn a new technology.</p>
+<p align="left">I code with the stack below, but I'm very open to learning new technologies.</p>
 
 ###
 
