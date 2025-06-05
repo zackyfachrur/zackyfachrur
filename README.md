@@ -2,6 +2,14 @@
 
 ###
 
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zackyfachrur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=merko&hide_border=false&order=2" height="300" alt="languages graph"  />
+</div>
+
+###
+
 <h1 align="left">Contact & Social Media</h1>
 
 ###
@@ -88,9 +96,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zackyfachrur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=merko&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
