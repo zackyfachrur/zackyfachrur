@@ -1,16 +1,22 @@
-<h1 align="left">Hey 👋What's Up?</h1>
+<h2 align="left">Hi There 👋</h2>
 
 ###
 
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=zackyfachrur&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zackyfachrur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=merko&hide_border=false&order=2" height="300" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zackyfachrur&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<h1 align="left">Contact & Social Media</h1>
+<p align="left">I am a Junior Software Engineer pursuing my Bachelor's in Information Systems at Gunadarma University. With experience in website, desktop, and mobile applications, as well interested in Web3 development, I've successfully worked on numerous projects. I pride myself on being a fast learner, equipped to tackle technical challenges, and committed to delivering quality work</p>
+
+###
+
+<h2 align="left">Contact & Social Media</h2>
+
+###
+
+<p align="left">Send me a messages if you have any projects or you're interested collaboration with me.</p>
 
 ###
 
@@ -28,7 +34,11 @@
 
 ###
 
-<h1 align="left">I code with</h1>
+<h2 align="left">I code with</h2>
+
+###
+
+<p align="left">I code with the stack in down below, but available to learn a new technology.</p>
 
 ###
 
@@ -95,4 +105,3 @@
 </div>
 
 ###
-
