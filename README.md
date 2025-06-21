@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I code with the stack in down below, but available to learn a new technology.</p>
+<p align="left">I code with the stack or tools in down below, but available to learn a new technology.</p>
 
 ###
 
