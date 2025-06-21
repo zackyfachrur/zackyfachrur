@@ -1,6 +1,6 @@
 <h2 align="left">About Me</h2>
 
-<img src="./LinkedIn-Cover.jpg"/>
+<img src="./LInkedIn-Cover.jpg"/>
 
 ###
 
