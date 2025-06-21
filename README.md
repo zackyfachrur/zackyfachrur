@@ -1,5 +1,7 @@
 <h2 align="left">About Me</h2>
 
+<img src="./LinkedIn-Cover.jpg"/>
+
 ###
 
 <p align="left">I am a Junior Software Engineer pursuing my Bachelor's in Information Systems at Gunadarma University. With experience in website, desktop, and mobile applications, as well interested in Web3 development, I've successfully worked on numerous projects. I pride myself on being a fast learner, equipped to tackle technical challenges, and committed to delivering quality work</p>
