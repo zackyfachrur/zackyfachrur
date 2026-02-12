@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I am a Junior Software Engineer. With experience in website, desktop, and mobile applications, as well interested in Web3 development, I've successfully worked on numerous projects. I pride myself on being a fast learner, equipped to tackle technical challenges, and committed to delivering quality work</p>
+<p align="left">I am a Junior Software Engineer. With experience in website, desktop, and mobile applications, as well interested in Web3 development, I've successfully worked on numerous projects. I pride myself on being a fast learner & equipped to tackle technical challenges./p>
 
 ###
 
